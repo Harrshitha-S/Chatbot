@@ -1,5 +1,5 @@
-import ChatWindow from "./components/ChatWindow";
+import ChatPage from "./pages/ChatPage";
 
 export default function App() {
-  return <ChatWindow />;
+  return <ChatPage />;
 }
